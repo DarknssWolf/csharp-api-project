@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Orchestration/">
+    <Project Path="CSharp-API-Project.AppHost/CSharpAPIProject.AppHost.csproj" />
+  </Folder>
+  <Folder Name="/Source/">
+    <Project Path="CSharp-API-Project.API/CSharpAPIProject.API.csproj" />
+    <Project Path="CSharp-API-Project.Application/CSharpAPIProject.Application.csproj" />
+    <Project Path="CSharp-API-Project.Domain/CSharpAPIProject.Domain.csproj" />
+    <Project Path="CSharp-API-Project.Infrastructure/CSharpAPIProject.Infrastructure.csproj" />
+  </Folder>
+</Solution>

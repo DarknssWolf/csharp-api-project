@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/Clients/">
+    <File Path="clients/web-api-client.ts" />
+  </Folder>
+  <Folder Name="/Docs/">
+    <File Path="Docs/FileStorage-DbBlob-Design.md" />
+    <File Path="Docs/Vue-Frontend-Setup.md" />
+  </Folder>
+  <Folder Name="/Orchestration/">
+    <Project Path="CSharp-API-Project.AppHost/CSharpAPIProject.AppHost.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+    <File Path="README.md" />
+    <File Path="aspire.config.json" />
+  </Folder>
+  <Folder Name="/Source/">
+    <Project Path="CSharp-API-Project.API/CSharpAPIProject.API.csproj" />
+    <Project Path="CSharp-API-Project.Application/CSharpAPIProject.Application.csproj" />
+    <Project Path="CSharp-API-Project.Domain/CSharpAPIProject.Domain.csproj" />
+    <Project Path="CSharp-API-Project.Infrastructure/CSharpAPIProject.Infrastructure.csproj" />
+  </Folder>
+</Solution>

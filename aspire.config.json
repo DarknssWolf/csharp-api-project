@@ -1,0 +1,5 @@
+{
+    "appHost": {
+        "path": "CSharp-API-Project.AppHost\\CSharpAPIProject.AppHost.csproj"
+    }
+}
